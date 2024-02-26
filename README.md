@@ -142,15 +142,29 @@ As well as Empiricism, Scrum is founded on Lean Thinking. Lean thinking reduces 
   Its a framework not a comeplete process 
 
 4. An overview of the Scrum practices
-   Deliving often. 
-   Using evidence from the past to keep improving. 
-   Inspection shouldn't be too frequent that it gets in the way of doing actual work. 
+   * Deliving often. 
+   * Using evidence from the past to keep improving. 
+   * Inspection shouldn't be too frequent that it gets in the way of doing actual work.
+  
+     4 formal events for inspection and adaptation:
+     1. Sprint planning
+     2. Daily Scrum
+     3. Sprint Review
+     4. Sprint Retrospective
+
+_Empiricism is about learning from the mistakes from the past_
+
+**Sprint**
+![scrum_process_atlassian](https://github.com/rominalodolo/ScrumMaster/assets/83961643/c3919782-2a4c-48fb-a98e-40a6e8a968e2)
+![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/1c5d3ab2-d98a-42e0-9aa9-33db17b948f1)
+
 
 5. Scrum Guide Gotchas
  Find the full guide here: [2020-Scrum-Guide-US-highlighted.pdf](https://github.com/rominalodolo/ScrumMaster/files/14401159/2020-Scrum-Guide-US-highlighted.pdf)
    
 
 ## Section 4 : Scrum team accountabitlities
+
 
 ## Section 5 : Scrum events
 
