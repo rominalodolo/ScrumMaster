@@ -80,8 +80,10 @@ o focus on ship-ability (e.g. using practices such as pair programming, code rev
 ### Check list 
 - [Daily Team Checklist](https://go.pashunconsulting.co.uk/daily-team-checklist-explainer32633470)
 - Step 2 Prepare:
+  
   ![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/9385b6a9-3087-4212-b653-bbc7188c6a88)
-- Step 3: Meeting 
+- Step 3: Meeting
+  
   ![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/d78f09ca-51f2-485d-a79e-4d993b51052e)
 - Summary: The team is well co-ordinated and planned for the day
   - The whole development team is up to date with progress
@@ -95,6 +97,9 @@ Learning objectives
 1. What is wrong with traditional methods of project managemnt
 2. What is the waterfall model and why it's less flexable than agile
 3. What is agile and how is it different from scrum
+    Agile is not an alternative to Scrum but an umbrella term for a set of methodologies and frameworks that share a manifesto and a set of principles.
+     Scrum is one such framework.
+
 
    Birth of agile:
    Image of waterfall vs iterative  method of the development process:
@@ -108,6 +113,10 @@ Learning objectives
   
 The object mentor group agreed on set of principles and made [the manifesto for agile software developmemnt](https://agilemanifesto.org/)
 
+   [Waterfall model](https://www.youtube.com/watch?v=bNLcRdrSQAU)
+    -  SDLC: linear, sequential approach to the software development lifecycle
+    ![whatis-waterfall_model](https://github.com/rominalodolo/ScrumMaster/assets/83961643/b77c78e2-786f-4480-8542-46bb09d1ad0f)
+    - If the requirements change after the requirements phase, then this has a knock-on effect to the other phases, therefore, the launch date becomes more difficult to hit. On top of that, the bulk of the defects and issues are not usually found until the test phase. This often delays launch, since more time is needed to fix bugs. This situation usually leads to overtime, low morale, and a last minute scramble towards the end of the project.
    
 
 ## Section 3 : Introducing Scrum 
