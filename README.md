@@ -2,7 +2,7 @@
 >> Total 3 hours 
 
 ## Section 1 : Introduction 
-Download this **PDF** [2020-Scrum-Guide-US-highlighted.pdf](https://github.com/rominalodolo/ScrumMaster/files/14401159/2020-Scrum-Guide-US-highlighted.pdf)
+Download this **PDF Scrum Guide** [2020-Scrum-Guide-US-highlighted.pdf](https://github.com/rominalodolo/ScrumMaster/files/14401159/2020-Scrum-Guide-US-highlighted.pdf)
 
 **This course is Updated regularly + Scrum Guide Attribution and Use Scrum Guide Attribution and Use**
 
@@ -120,6 +120,35 @@ The object mentor group agreed on set of principles and made [the manifesto for 
    
 
 ## Section 3 : Introducing Scrum 
+1. What is [Scrum](https://www.techagilist.com/agile/scrum-theory-scrum-framework/)
+  Self Managing cross functional TEAMS
+  Scrum theory
+    * Iteratve
+    * Incremental
+    * Theories: Transparancy, Inspection, Adaptation
+  ![scrum-pillars](https://github.com/rominalodolo/ScrumMaster/assets/83961643/9fe3764a-7ad1-4ec7-bb9a-95f86ead763b)
+
+   **Scrum skeleton**
+![scrum_process](https://github.com/rominalodolo/ScrumMaster/assets/83961643/9ee8e0d1-ebcf-4edf-9f24-cf91f481d929)
+
+**Self-Managing over Self-Organizing**
+Scrum teams are self-managing, choosing who does the work, how, and what to work on.
+
+**Lean Thinking**
+As well as Empiricism, Scrum is founded on Lean Thinking. Lean thinking reduces waste and focuses on the essentials. as you will see Scrum removes waste (impediments) and prioritises value (essentials).
+
+
+3. What the core theory of scrum is
+  Its a framework not a comeplete process 
+
+4. An overview of the Scrum practices
+   Deliving often. 
+   Using evidence from the past to keep improving. 
+   Inspection shouldn't be too frequent that it gets in the way of doing actual work. 
+
+5. Scrum Guide Gotchas
+ Find the full guide here: [2020-Scrum-Guide-US-highlighted.pdf](https://github.com/rominalodolo/ScrumMaster/files/14401159/2020-Scrum-Guide-US-highlighted.pdf)
+   
 
 ## Section 4 : Scrum team accountabitlities
 
