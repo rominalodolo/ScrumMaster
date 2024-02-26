@@ -79,8 +79,10 @@ o focus on ship-ability (e.g. using practices such as pair programming, code rev
 
 ### Check list 
 - [Daily Team Checklist](https://go.pashunconsulting.co.uk/daily-team-checklist-explainer32633470)
-- Step 2 Prepare: ![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/9385b6a9-3087-4212-b653-bbc7188c6a88)
-- Step 3: Meeting ![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/d78f09ca-51f2-485d-a79e-4d993b51052e)
+- Step 2 Prepare:
+  ![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/9385b6a9-3087-4212-b653-bbc7188c6a88)
+- Step 3: Meeting 
+  ![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/d78f09ca-51f2-485d-a79e-4d993b51052e)
 - Summary: The team is well co-ordinated and planned for the day
   - The whole development team is up to date with progress
   - Any issues have been captured so that they can be removed as soon as possible
@@ -89,6 +91,24 @@ o focus on ship-ability (e.g. using practices such as pair programming, code rev
 
 
 ## Section 2 : The world before agile and scrum 
+Learning objectives
+1. What is wrong with traditional methods of project managemnt
+2. What is the waterfall model and why it's less flexable than agile
+3. What is agile and how is it different from scrum
+
+   Birth of agile:
+   Image of waterfall vs iterative  method of the development process:
+![Waterfall_vs_iterative](https://github.com/rominalodolo/ScrumMaster/assets/83961643/3f66a798-c715-4442-8b28-3e60c1e21f8a)
+
+[XP, FDD, DSDM, and Crystal Methods of Agile Development](https://project-management.com/xp-fdd-dsdm-and-crystal-methods-of-agile-development/)
+- XP
+- Crystal
+- DSDM
+- FDD
+  
+The object mentor group agreed on set of principles and made [the manifesto for agile software developmemnt](https://agilemanifesto.org/)
+
+   
 
 ## Section 3 : Introducing Scrum 
 
