@@ -265,7 +265,10 @@ _Prescribed events are used in Scrum to create regulatirt and to maximize the ne
 
 
 5. Purpose of these
+
 6. What happens in each event
+
+
 7. Scrum guide and exam prep
 
 
