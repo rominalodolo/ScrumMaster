@@ -1,5 +1,6 @@
 # Overview of Scrum Agile project management+common questions+tips to pass PSM scrum org ONLINE Scrum Master Certification
->> Total 3 hours 
+>> Total 3 hours
+>> Notes captured here by Romina Lodolo on the 26th of Feb 2024.
 
 ## Section 1 : Introduction 
 Download this **PDF Scrum Guide** [2020-Scrum-Guide-US-highlighted.pdf](https://github.com/rominalodolo/ScrumMaster/files/14401159/2020-Scrum-Guide-US-highlighted.pdf)
@@ -198,7 +199,55 @@ Scrum Team
 
 Note: The size of the scrum team above is not prescribed. It is recommended.
 
+**The Product Owner**
+  * Product Owner is responsible for maximising value of product & Developers
+  * What a Product Owner isn't responsible for
+  * What a Product Owner is accountable for
+  * Product Owner accountable for prouct backlog
+  * remind how YOU add value
+  * Prioritising
+  * using info from the teams to help make decisions
+_For the Product Owner to succeed the entire organisation must respect their decisions_
+
+**The Development Team**
+ * The developers consit of professionals who do the work of delivering a potenially releasable Increment of 'DONE' product at the end of each sprint
+ * DONE increment is key
+ * Scrum recognises no titles for the developers members other than developer, regardless of the work being performed by the other person; there are no exceptions to this rule.
+
+   [Sprint backlog info](https://medium.com/@KnowledgeHut/from-creation-to-execution-how-sprint-backlog-helps-scrum-teams-6b01ffaf1eb)
+  ![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/38c788db-6c46-4773-a436-d50b6112bb36)
+
+> [Open assesment](https://www.scrum.org/open-assessments/scrum-open):
+> [Learning path for above assessment](https://www.scrum.org/pathway/scrum-master/)
+>
+
+**Scrum Master**
+_Scrum master is a servent leadership - always serving the team. Serving the team by leading the team._
+  * Facilitating scrum events as required or needed.
+  * Removing any impediments
+  * Authority to coach and lead anyone in the organisation.
+  * Be the authority on scrum.
+
+
 ## Section 5 : Scrum events
+
+1. Scrum events
+  Time box / Event
+  Ending and managing meetings on time.
+  Scrum masters role to organise and manage these meetings.
+
+**Sprint planning meeting - 8 hours for 1 month sprint.**  
+Team plan the work for the next sprint 
+4 hours meeting for a 2 week sprint 
+3 topics - why(sprint goal), what, how. 
+![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/cb39efad-cd6e-4c3d-897a-07a90001e28e)
+
+
+3. Purpose of these
+4. What happens in each event
+5. Scrum guide and exam prep
+
+
 
 ## Section 6 : Scrum Artifacts
 
@@ -213,4 +262,4 @@ Note: The size of the scrum team above is not prescribed. It is recommended.
 ## Section 11 : BONUS materials
 
 
-More about 
+
