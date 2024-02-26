@@ -154,9 +154,12 @@ As well as Empiricism, Scrum is founded on Lean Thinking. Lean thinking reduces 
 
 _Empiricism is about learning from the mistakes from the past_
 
-**Sprint**
+[**Sprint**](https://www.atlassian.com/agile/scrum/sprints)
+A sprint is an iteration of a calender month or less in which a product increment is delivered. 
+Setting sprint length should give enough opportinity to inspect and adapt. 
+
+  **How to plan and execute scrum sprints**
 ![scrum_process_atlassian](https://github.com/rominalodolo/ScrumMaster/assets/83961643/c3919782-2a4c-48fb-a98e-40a6e8a968e2)
-![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/1c5d3ab2-d98a-42e0-9aa9-33db17b948f1)
 
 
 5. Scrum Guide Gotchas
@@ -164,7 +167,25 @@ _Empiricism is about learning from the mistakes from the past_
    
 
 ## Section 4 : Scrum team accountabitlities
+Scrum Team 
+1. Scrum master:
+  * Understanding the scrum rules,
+  * remove impepements and
+  * help team slef manage
+  * Go-to person
+  * facilitates meetings
+  * helps product owner to maximize ROI
+  * aids team in porductivity
 
+2. Product owner
+  * creates product backlog and provides featutes needed
+  * makes decisions for ROI
+  * tradeoff to maximise product value
+  * priooritise requiremnets based on business value
+
+3. The developers
+  * 
+   
 
 ## Section 5 : Scrum events
 
