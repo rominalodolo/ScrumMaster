@@ -218,7 +218,8 @@ _For the Product Owner to succeed the entire organisation must respect their dec
    [Sprint backlog info](https://medium.com/@KnowledgeHut/from-creation-to-execution-how-sprint-backlog-helps-scrum-teams-6b01ffaf1eb)
   ![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/38c788db-6c46-4773-a436-d50b6112bb36)
 
-> [Open assesment](https://www.scrum.org/open-assessments/scrum-open):
+> [Open assesment](https://www.scrum.org/open-assessments/scrum-open): 
+> 
 > [Learning path for above assessment](https://www.scrum.org/pathway/scrum-master/)
 >
 
@@ -242,11 +243,30 @@ Team plan the work for the next sprint
 4 hours meeting for a 2 week sprint 
 3 topics - why(sprint goal), what, how. 
 ![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/cb39efad-cd6e-4c3d-897a-07a90001e28e)
+Daily scrum: 
+  1. What did I do yestrday that helped us meet the sprint goal?
+  2. What will I do today to help us meet the sprint goal?
+  3. Do I see any impediment that prevents me or us from meeting the Sprint goal?
+
+Sprint review help after the sprint by the scrum mater. Sprint retrospective is held after the sprint review and before the next sprint. Each team member is asked what worked and what cuold be done better. 
+
+**Release Planning meeting**
+Not officially a scrum event but often used in scrum. 
+Product backlog items prioritised for release.
+Team agrees on what is feasible for release.
+An indicator not a commitment. 
+
+The 5 Scrum events: The sprint, Sprint planning, Daily scrum, Sprint review, sprint retrospective. 
+Max length of a daily scrum = 15min. There is no minimum time. 
+All events are compulsory otherwise you are not doing a scrum.
+
+_Prescribed events are used in Scrum to create regulatirt and to maximize the need for meetings not defined in scrum. All events are time-boxed events, such that every event has a maximum duration._
 
 
-3. Purpose of these
-4. What happens in each event
-5. Scrum guide and exam prep
+
+5. Purpose of these
+6. What happens in each event
+7. Scrum guide and exam prep
 
 
 
