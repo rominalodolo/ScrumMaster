@@ -2,7 +2,7 @@
 >> Total 3 hours 
 
 ## Section 1 : Introduction 
-Download this [PDF]([2020-Scrum-Guide-US-highlighted.pdf](https://github.com/rominalodolo/ScrumMaster/files/14401159/2020-Scrum-Guide-US-highlighted.pdf))
+Download this **PDF** [2020-Scrum-Guide-US-highlighted.pdf](https://github.com/rominalodolo/ScrumMaster/files/14401159/2020-Scrum-Guide-US-highlighted.pdf)
 
 **This course is Updated regularly + Scrum Guide Attribution and Use Scrum Guide Attribution and Use**
 
