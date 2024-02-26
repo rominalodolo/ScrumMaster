@@ -1,5 +1,6 @@
 # Overview of Scrum Agile project management+common questions+tips to pass PSM scrum org ONLINE Scrum Master Certification
 >> Total 3 hours
+>> 
 >> Notes captured here by Romina Lodolo on the 26th of Feb 2024.
 
 ## Section 1 : Introduction 
