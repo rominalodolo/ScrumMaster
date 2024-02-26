@@ -184,8 +184,19 @@ Scrum Team
   * priooritise requiremnets based on business value
 
 3. The developers
-  * 
-   
+  * Self managing and collaborative
+  * Multi-skilled for the project, experts in their field 
+
+
+**Developers and Scrum Team Size**
+
+> Development Team is now referred to as "developers"
+>> The goal was to eliminate the concept of a separate team within a team that has led to “proxy” or "us and them” behavior between the PO and Dev Team. There is now just one Scrum Team focused on the same objective, with three different sets of accountabilities: PO, SM, and Developers.
+
+> Scrum Team Size
+>> The Scrum Team is small enough to remain nimble and large enough to complete significant work within a Sprint, typically 10 or fewer people. In general, we have found that smaller teams communicate better and are more productive. If Scrum Teams become too large, they should consider reorganizing into multiple cohesive Scrum Teams, each focused on the same product.
+
+Note: The size of the scrum team above is not prescribed. It is recommended.
 
 ## Section 5 : Scrum events
 
