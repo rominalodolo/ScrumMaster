@@ -27,6 +27,65 @@ You will be given a link to the Open assessment (for practice) and Scrum Certifi
 
 Get the free Daily Team To-do list here to take your team to the next level!
 
+### The Scrum To-do List
+Want to deliver projects on time? Scrum To-Do Lists help you to do this. Understanding the fundamentals of scrum is a very simple thing to do. However putting it into practice in the world of deadlines, strong characters and the need for quick decisions can often make it a huge challenge to get the job done using the scrum rules. There are often situations where the rules are forgotten and put to one side, especially when they are most needed.
+
+In my experience as a scrum master, team lead and software engineer I saw how easy it is for employees of a fast moving business to put the scrum rules to one side and destroy the very framework that would help make their daily lives easier. Observing how easy it is to forget the fundamental elements of scrum, I have put together this simple To-Do List that anyone can use on a daily basis. It covers:
+
+To-Do List for the fundamental tasks of every scrum role
+an overview and recap of each scrum meeting (time-box)
+To-Do List for the preparation, carrying-out and goals of every scrum meeting
+Using these To-Do List, you can be prepared and confident that you are carrying out the scrum practices on your daily job, boosting the productivity of your scrum team and increasing return on investment for the business. One section of the check list is below.
+
+### The SCRUM MASTER To-Do List
+o update list of impediments from daily scrum, emails and other contact
+
+o follow up on impediments above
+
+o order any team equipment
+
+o write sprint report to stake holders (once a sprint)
+
+o chase up any information holding up sprint backlog (eg. third party supplied artefacts)
+
+o make sure burndown and task board are visible in team room
+
+o arrange meetings and have chats to coach any new or needy team members, product owners or stakeholders
+
+### The PRODUCT OWNER To-Do List
+o update backlog daily with any changes
+
+o prioritise backlog daily based on business value
+
+o meet stakeholders when needed to coordinate and capture requirements
+
+o liaise with team to clarify requirements and make trade offs communicate release plan to stakeholders
+
+### The DEVELOPERS To-Do List
+o update task board with time remaining on tasks
+
+o report any impediments to scrum master
+
+o communicate with product owner before attempting and after completing a story
+
+o achieve daily targets
+
+o maintain team communication
+
+o keep solutions simple
+
+o focus on ship-ability (e.g. using practices such as pair programming, code review, continuous refactoring)
+
+
+### Check list 
+- [Daily Team Checklist](https://go.pashunconsulting.co.uk/daily-team-checklist-explainer32633470)
+- Step 2 Prepare: ![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/9385b6a9-3087-4212-b653-bbc7188c6a88)
+- Step 3: Meeting ![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/d78f09ca-51f2-485d-a79e-4d993b51052e)
+- Summary: The team is well co-ordinated and planned for the day
+  - The whole development team is up to date with progress
+  - Any issues have been captured so that they can be removed as soon as possible
+  - The Facilitator has been informed if the issues are not simple for the team to resolve 
+
 
 
 ## Section 2 : The world before agile and scrum 
