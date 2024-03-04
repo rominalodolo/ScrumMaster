@@ -262,9 +262,34 @@ All events are compulsory otherwise you are not doing a scrum.
 
 _Prescribed events are used in Scrum to create regulatirt and to maximize the need for meetings not defined in scrum. All events are time-boxed events, such that every event has a maximum duration._
 
+Very important to having a limit on time on projects and meetings. 
 
+If you're not doing all these events you're not doing SCRUM: 
+- Sprint planning
+- Daily scrum
+- Sprint review
+- Sprint retrospective
 
-5. Purpose of these
+  <img width="640" alt="the-scrum-values-color-signed" src="https://github.com/rominalodolo/ScrumMaster/assets/83961643/2f1a440e-37ed-4463-898e-20339ffe32a4">
+
+>>_The heart of scrum is a sprint, a time-box of one month or less during which a "DOne", useable, and potentially releasable product Increment is created._
+>>
+>>_A new sprint starts immedietly after the conclusion of the previous Sprint._
+>>
+>>_Each Sprint may be considered a project with no more than a one-month horizon._
+
+Canceling a sprint is done only by a Product owner. 
+
+Sprint planning: 
+- Sprint planning is a time boxed max of 8 hours per month
+- For a 2 week sprint, a 4 hour meeting usually works.
+- 4 hour meeting can have breaks but it's becuase there is that much to talk about when planning.
+- Maybe could be reduced to 2 hours when you have more experience and know how to plan better.
+
+Changes to Sprint planning rules:
+  
+
+5. Purpose of these 
 
 6. What happens in each event
 
