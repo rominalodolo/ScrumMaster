@@ -223,7 +223,7 @@ _For the Product Owner to succeed the entire organisation must respect their dec
 > [Learning path for above assessment](https://www.scrum.org/pathway/scrum-master/)
 >
 
-**Scrum Master**
+**[Scrum Master](https://www.productplan.com/learn/scrum-master-responsibilities/)**
 _Scrum master is a servent leadership - always serving the team. Serving the team by leading the team._
   * Facilitating scrum events as required or needed.
   * Removing any impediments
@@ -321,7 +321,6 @@ For each selected Product Backlog item, the Developers plan the work necessary t
 
 
 6. What happens in each event
-
 
 7. Scrum guide and exam prep
 
