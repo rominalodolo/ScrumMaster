@@ -320,7 +320,7 @@ Changes to Sprint planning rules:
 ## Section 11 : BONUS materials
 Audiobook:  Kicking off a Project - from "The Power of Scrum in thew real world" & Sprint Planning - from "The Power of Scrum in thew real world"
 
-How scrum works presentation
+### How scrum works presentation
 ![Slide1](https://github.com/rominalodolo/ScrumMaster/assets/83961643/b1f69281-555b-43eb-9918-222285a06c96)
 ![Slide2](https://github.com/rominalodolo/ScrumMaster/assets/83961643/73753fd1-e302-452a-bf39-7e185e793c8b)
 ![Slide3](https://github.com/rominalodolo/ScrumMaster/assets/83961643/ad00550b-b454-47e7-8b22-cc8ac8ec909b)
@@ -345,13 +345,23 @@ How scrum works presentation
 
 
 
-The Scrum Mega Pack PDF 
+### The Scrum Mega Pack PDF 
 [72+Reasons+Why+Scrum+Works+-+Roiles+Excerpt.pdf](https://github.com/rominalodolo/ScrumMaster/files/14480202/72%2BReasons%2BWhy%2BScrum%2BWorks%2B-%2BRoiles%2BExcerpt.pdf)
 
 
-**3 Top Blog Posts** 
+### 3 Top Blog Posts
 1. [Scrum Starter Kit](http://pashunconsulting.co.uk/blog/scrum_kit_blog/)
 2. [Top 3 Books that changed my life](http://pashunconsulting.co.uk/blog/3-books-that-changed-my-life-top-agile-books/)
 3. [Build Anything with Scrum](http://pashunconsulting.co.uk/blog/plan-and-build-anything-with-scrum/)
 
+### Summeries: 
+![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/72bd56e8-253c-44aa-ab75-013f358732b6)
+![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/8b9541e1-2459-4478-aac6-15483523f011)
+![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/dca8f4d8-d3e4-4806-89d7-ba6299110360)
+![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/8052e00b-2770-4bdf-8cd7-179b959c6783)
+![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/8c466cc1-2fef-4649-98b1-a4f9c7c74f96)
 
+
+
+#### BONUS 
+[Free Daily Team Checklist](https://go.pashunconsulting.co.uk/lm-mps-daily-team-checklist)
