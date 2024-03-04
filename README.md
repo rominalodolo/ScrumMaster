@@ -307,8 +307,51 @@ Changes to Sprint planning rules:
 ## Section 9 : Practical examples and case study 
 
 ## Section 10 : FAQs
+**Certificate** 
+![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/32e9d397-b6c5-435b-92cd-765e390be4a2)
+&& [The Scrum To-Do List](http://pashunconsulting.co.uk/blog/scrum_todo_list_blog/?utm_source=udemy&utm_medium=scrumcertcourse)
+**The Scrum To-do List**
+
+![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/97451ac7-26d7-472f-b800-9f1f0a7e2a94)
+![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/e38d2b2a-797a-4684-bda4-f46355d37cb7)
+![image](https://github.com/rominalodolo/ScrumMaster/assets/83961643/9953ac4f-53d7-40eb-9abc-418380c8c200)
+
 
 ## Section 11 : BONUS materials
+Audiobook:  Kicking off a Project - from "The Power of Scrum in thew real world" & Sprint Planning - from "The Power of Scrum in thew real world"
 
+How scrum works presentation
+![Slide1](https://github.com/rominalodolo/ScrumMaster/assets/83961643/b1f69281-555b-43eb-9918-222285a06c96)
+![Slide2](https://github.com/rominalodolo/ScrumMaster/assets/83961643/73753fd1-e302-452a-bf39-7e185e793c8b)
+![Slide3](https://github.com/rominalodolo/ScrumMaster/assets/83961643/ad00550b-b454-47e7-8b22-cc8ac8ec909b)
+![Slide4](https://github.com/rominalodolo/ScrumMaster/assets/83961643/d3fd1ef7-12f7-460b-b8f3-5a1f6cc290b0)
+![Slide5](https://github.com/rominalodolo/ScrumMaster/assets/83961643/fe465236-b505-43d5-a1da-455ac82312a5)
+![Slide6](https://github.com/rominalodolo/ScrumMaster/assets/83961643/25e1f094-3422-48ee-8d95-45a0c468c90a)
+![Slide7](https://github.com/rominalodolo/ScrumMaster/assets/83961643/da1df45b-7e43-4518-824c-60eece179d53)
+![Slide8](https://github.com/rominalodolo/ScrumMaster/assets/83961643/27795d4c-fd61-47c8-b113-b73f7ec8ae1b)
+![Slide9](https://github.com/rominalodolo/ScrumMaster/assets/83961643/768a02af-caf6-42d4-b191-7c14bb8cfb64)
+![Slide10](https://github.com/rominalodolo/ScrumMaster/assets/83961643/4a896620-ebad-42c0-a933-671436b2b4ae)
+![Slide11](https://github.com/rominalodolo/ScrumMaster/assets/83961643/a2689639-8bc0-4646-b765-359774991068)
+![Slide12](https://github.com/rominalodolo/ScrumMaster/assets/83961643/2958f1eb-1735-4c3f-b35b-ed33e588d299)
+![Slide13](https://github.com/rominalodolo/ScrumMaster/assets/83961643/109c95b3-72dd-4d96-9c83-d83d49095337)
+![Slide14](https://github.com/rominalodolo/ScrumMaster/assets/83961643/4a37cd50-60f5-4e6f-bab9-7be523da386b)
+![Slide15](https://github.com/rominalodolo/ScrumMaster/assets/83961643/b7d29ce6-eb3f-4313-b002-3cb3d4010e05)
+![Slide16](https://github.com/rominalodolo/ScrumMaster/assets/83961643/e19a11f1-278d-4ab1-987a-d9bd8d7167b0)
+![Slide17](https://github.com/rominalodolo/ScrumMaster/assets/83961643/eb19f22d-bf1b-4d13-a00b-b4d060215213)
+![Slide18](https://github.com/rominalodolo/ScrumMaster/assets/83961643/227c8031-c9d6-4153-9eec-48a56b8157f3)
+![Slide19](https://github.com/rominalodolo/ScrumMaster/assets/83961643/9d29c56d-d650-4c3d-a8b1-67787cd35ad1)
+![Slide20](https://github.com/rominalodolo/ScrumMaster/assets/83961643/9006d158-bce3-418d-994c-98f2e3d9e9e7)
+![Slide21](https://github.com/rominalodolo/ScrumMaster/assets/83961643/3abb2be2-1d6d-46b6-b766-5db7f9a7d80f)
+
+
+
+The Scrum Mega Pack PDF 
+[72+Reasons+Why+Scrum+Works+-+Roiles+Excerpt.pdf](https://github.com/rominalodolo/ScrumMaster/files/14480202/72%2BReasons%2BWhy%2BScrum%2BWorks%2B-%2BRoiles%2BExcerpt.pdf)
+
+
+**3 Top Blog Posts** 
+1. [Scrum Starter Kit](http://pashunconsulting.co.uk/blog/scrum_kit_blog/)
+2. [Top 3 Books that changed my life](http://pashunconsulting.co.uk/blog/3-books-that-changed-my-life-top-agile-books/)
+3. [Build Anything with Scrum](http://pashunconsulting.co.uk/blog/plan-and-build-anything-with-scrum/)
 
 
