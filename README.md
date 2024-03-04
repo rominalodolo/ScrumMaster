@@ -287,9 +287,38 @@ Sprint planning:
 - Maybe could be reduced to 2 hours when you have more experience and know how to plan better.
 
 Changes to Sprint planning rules:
-  
+
+Topics coved in Planning
+  * The Why : Sprint goal - Kick off the meeting
+  * The What : Actions, what needs to be done
+  * The How : How will it get done
+
+    _projected capacity of the developers during the sprint_
+How much time do the developers have? Who is available for what. Time for lunch, for travel, restroom breaks, time for other time consuming tasks.
+Time available - Factored Unavailable time = capacity
+this builds buffer bto the plan
+
+How to plan working days: 
+5 working days : 1 day for planning and include all other unavailable time. So only 4 days and maybe only 4 of those hours are productive. 
+10 working days : 9 capacity days etc. 
+
+_The Sprint goal is an objective that will be met within the Spint through the implementation of the Product Backlog._
+
 
 5. Purpose of these 
+Remember: Three Sprint Planning Topics
+Remember: Sprint Planning addresses the following topics:
+
+### Topic One: Why is this Sprint valuable?
+The Product Owner proposes how the product could increase its value and utility in the current Sprint. The whole Scrum Team then collaborates to define a Sprint Goal that communicates why the Sprint is valuable to stakeholders. The Sprint Goal must be finalized prior to the end of Sprint Planning
+
+### Topic Two: What can be Done this Sprint?
+Through discussion with the Product Owner, the Developers select items from the Product Backlog to include in the current Sprint. The Scrum Team may refine these items during this process, which increases understanding and confidence. Selecting how much can be completed within a Sprint may be challenging. However, the more the Developers know about their past performance, their upcoming capacity, and their Definition of Done, the more confident they will be in their Sprint forecasts.
+
+### Topic Three: How will the chosen work get done?
+For each selected Product Backlog item, the Developers plan the work necessary to create an Increment that meets the Definition of Done. This is often done by decomposing Product Backlog items into smaller work items of one day or less. How this is done is at the sole discretion of the Developers. No one else tells them how to turn Product Backlog items into Increments of value. 9 The Sprint Goal, the Product Backlog items selected for the Sprint, plus the plan for delivering them are together referred to as the Sprint Backlog. Sprint Planning is timeboxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter.
+
+
 
 6. What happens in each event
 
@@ -305,6 +334,12 @@ Changes to Sprint planning rules:
 ## Section 8 : Final words and certification 
 
 ## Section 9 : Practical examples and case study 
+
+#### Daily Scrum Example
+[Video Examples](https://www.youtube.com/@AgileTrainingVideos)
+[Agile Simulation - Part 20 | The Daily Standup | Agile Videos](https://www.youtube.com/watch?v=q_R9wQY4G5I)
+
+
 
 ## Section 10 : FAQs
 **Certificate** 
